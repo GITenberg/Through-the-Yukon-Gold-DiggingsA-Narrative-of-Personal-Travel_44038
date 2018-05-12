@@ -1,0 +1,29 @@
+_repo: Through-the-Yukon-Gold-DiggingsA-Narrative-of-Personal-Travel_44038
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44038-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spurr, Josiah Edward
+    alias: Spurr, J. E. (Josiah Edward)
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '42535'
+    url: http://www.gutenberg.org/2009/agents/42535
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries'
+- !lcsh 'Alaska -- Description and travel'
+- !lcc 'F850.5'
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- Gold discoveries'
+title: 'Through the Yukon Gold Diggings: A Narrative of Personal Travel'
+url: http://www.gutenberg.org/ebooks/44038
